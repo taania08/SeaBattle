@@ -2,10 +2,10 @@ package com.company;
 
 public class Point {
 
-    private double x;
-    private double y;
+    private Integer x;
+    private Integer y;
 
-    public Point (double x, double y){
+    public Point (Integer x, Integer y){
         this.x = x;
         this.y = y;
     }

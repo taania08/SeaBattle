@@ -20,6 +20,6 @@ public class Player {
     }
 
     public boolean recieveAttack (Point p){
-        
+
     }
 }
